@@ -1,5 +1,5 @@
 # AI_Fundamentals---First-AI-Journey
-Tutorial provided by KodeKloud for making AI API Calls | Python. OpenAI, Prompt Engineering, REST APIs, JSON Data Parsing, env variables(authentication), token tracking &amp; cost optimizations
+Tutorial provided by KodeKloud for making AI API Calls | Python. OpenAI, Prompt Engineering, REST APIs, JSON Data Parsing, env variables(authentication), token tracking &amp; cost optimizations | Follow along with the tutorial by signing up for an account at https://kodekloud.com and following the tutorial in the cloud coding environment. You can watch the tutorial on YouTube as well: https://youtu.be/ZaPbP9DwBOE?si=HGZuFIkjd003qOKo
 
 
 # Lab 1: AI Fundamentals - Your First AI Journey
